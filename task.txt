@@ -1,6 +1,6 @@
-Act as a C# and UI expert. Design an implement a windows forms application for .NET 8.0 to manage a file parameters.json. You can see the file here: https://github.com/oculus608/gemini in the master branch. The code you provide will be compiled in VS 2022. Assume the application to be single-threaded, no need to be concerned about multi-threading issues. The application should be dark themed. That may requirent is that it should be as convinient to use for the end user as possible and look as nice and professional is possible. 
+Act as a C# and UI expert. Design an implement a windows forms application for .NET 8.0 to manage a file parameters.json. You can see the file here: https://github.com/oculus608/gemini in the main branch. The code you provide will be compiled in VS 2022. Assume the application to be single-threaded, no need to be concerned about multi-threading issues. The application should be dark themed. That may requirent is that it should be as convinient to use for the end user as possible and look as nice and professional is possible. 
 
-The VS solution and project already exist and you can look at them here: https://github.com/oculus608/ac-grid-generator-ui.git The code you generate will be placed in that solution.
+The VS solution and project already exist and you can look at them here: https://github.com/oculus608/ac-grid-generator-ui.git in the main branch. The code you generate will be placed in that solution.
 
 Let's go through the data:
 _Documentation_ should stay the way it is in file. User should not be able to change it. It documents the possible options for the GridStrategy. You can use it to display hints for it in UI. 
