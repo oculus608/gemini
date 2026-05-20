@@ -1,0 +1,13 @@
+{
+  "_Documentation_": "GridStrategy options: 'Lottery' (picks from all 50), 'Franchise' (picks from top X and shuffles), 'Fixed' (no shuffle, straight down row-by-row)",
+  
+  "AcRootPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\assettocorsa",
+  "PresetFolder": "C:\\Users\\oculu\\AppData\\Local\\AcTools Content Manager\\Presets\\Race Grids",
+  "PresetName": "rivals_test",
+  "GridStrategy": "Fixed",
+  "BaseSkill": 85,
+  "BaseAggression": 50,
+  "CarAllocations": [
+    { "CarId": "ks_alfa_romeo_155_v6", "Count": 23, "Ballast": 0, "Restrictor": 0 }
+  ]
+}
